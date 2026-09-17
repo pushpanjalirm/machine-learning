@@ -1,0 +1,32 @@
+
+# Basic Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning Libraries
+scikit-learn
+
+# Neural Networks and Deep Learning
+tensorflow
+keras
+
+# Advanced Deep Learning
+torch
+transformers
+
+# Natural Language Processing
+nltk
+spacy
+
+# Image Processing
+opencv-python
+Pillow
+
+# Evaluation and Model Management
+scipy
+joblib
+
+# Additional utilities for Recurrent Networks and Generative Models
+tqdm
